@@ -2,6 +2,9 @@
 
 The OpenMV M7 is a board containing an cortex M7 processor. I runs the MicroPython OS and you can program the OpenMV Cam in high level MicroPython scripts. The OpenMV IDE(based on the QtCreator) can be used to edit and run python scripts on the M7 board.
 
+Other details pertaining to IO use and hardware setup is found in the below link:
+http://docs.openmv.io/openmvcam/tutorial/index.html
+
 ## Installing the IDE
 http://docs.openmv.io/openmvcam/tutorial/software_setup.html
 
